@@ -1,0 +1,16 @@
+{
+  "name": "il2bot",
+  "version": "1.1.0",
+  "description": "",
+  "main": "bot.js",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "discord.js": "^13.3.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tim Murphy",
+  "license": "ISC"
+}
