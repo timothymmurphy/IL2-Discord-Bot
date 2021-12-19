@@ -17,9 +17,3 @@ Enter `node bot.js` from a terminal window in the location that you downloaded t
 I was commissioned to make this for a friend and am otherwise unfamiliar with the game.
 
 The goal of this project was to display the information found on [this](http://stats.virtualpilots.fi:8000/en/faq/) webpage to the community's Discord server every minute.
-
-# Screenshots
-## Server website displaying mission information
-
-
-
